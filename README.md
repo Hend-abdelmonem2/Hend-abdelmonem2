@@ -11,10 +11,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineering%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a IS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#,HTML, CSS,Entity frame work core, asp.net core,mvc,  and mysql or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+🏢 Backend Developer | .NET Developer
+👨‍💻 Passionate about building scalable and maintainable web applications using ASP.NET Core and Clean Architecture.
+💡 Experienced in C#, ASP.NET Core, Entity Framework Core, SQL Server, REST APIs, and database design.
+🚀 Currently exploring system design, software architecture, and modern backend technologies.
+💬 Ask me about .NET, Backend Development, APIs, EF Core, SQL, or Web Development.
+☕ Coffee lover who enjoys turning ideas into real-world applications.
   .
 
 
@@ -23,17 +25,24 @@
 <a href="https://linkedin.com/in/hend-abdelmonem-07200a253" target="_blank"><img src="https://img.shields.io/badge/-Hend%20Abdelmonem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Mysql.js](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat\&logo=c-sharp\&logoColor=239120) 
+![.NET](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat\&logo=dotnet\&logoColor=512BD4) 
+![Entity Framework Core](https://img.shields.io/badge/-EF%20Core-05122A?style=flat\&logo=.net) 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat\&logo=microsoft-sql-server\&logoColor=CC2927) 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat\&logo=mysql) 
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat) 
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat\&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat\&logo=css3\&logoColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat\&logo=bootstrap\&logoColor=563D7C) 
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat\&logo=wordpress) 
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-05122A?style=flat\&logo=woocommerce) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat\&logo=visual-studio\&logoColor=5C2D91) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat\&logo=visual-studio-code\&logoColor=007ACC) 
+
 
 
 
